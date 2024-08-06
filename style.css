@@ -1,0 +1,16 @@
+body {
+    background: -webkit-linear-gradient(left, #18ca50, #19a149);
+    background-size: cover;
+}
+.container {
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.header {
+    color: #511717;
+    padding-top: 50px;
+    min-height: 70px;
+    text-align: center;
+    text-shadow: 2px 2px 2px #511717;
+}
