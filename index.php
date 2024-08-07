@@ -22,7 +22,7 @@
     </div> 
     <div class="login">
         <li><a href="phar/index.php">I am a Pharmacy</a></li>
-        <li><a href="backend/admin/index.php">I am a customer</a></li>
+        <li><a href="doctor/index.php">I am a Doctor</a></li>
     </div>
 </body>
 </html> 

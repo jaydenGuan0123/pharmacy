@@ -45,9 +45,9 @@ session_start();
     </div>
     <div class="dashboard">
         <h2>Pharmacy Dashboard</h2>
-        <a href="create_patient.php">Create new patient</a>
-        <a href="create_prescription.php">Create prescription</a>
+        <a href="check_prescription.php">Check Prescription</a>
         <a href="send_message.php">Send Message</a>
+        <a href="update_medicine_stock.php">Update Medicine Stock</a>
     </div>
     <div class="logout">
         <a href="../logout.php">Logout</a>
